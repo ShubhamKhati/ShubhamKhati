@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development and programming
 - 🌱 I’m learning more about open source
 - 💞️ I’m looking to collaborate with some good organizations
-- 📫 Reach me: linkedin.com/in/shubham-khati-b626161b6
+- 📫 Reach me: https://www.linkedin.com/in/shubham-khati-b626161b6/
 
 <!---
 ShubhamKhati/ShubhamKhati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
