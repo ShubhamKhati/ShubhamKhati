@@ -1,5 +1,6 @@
 - <h1 align="center">Hi 👋, I'm Shubham Singh Khati</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<h4>I'm Just a Programmer👨‍💻, looking to solve real-world problems🌏. I'm passionate about Competitive Programming, creating software💻 , I like learning and experimenting with new technologies, building small projects . Do 🌟 my repository if you find my projects interesting, at least your star could make someone's day 😄.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamkhati&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamkhati" /> </p>
 
