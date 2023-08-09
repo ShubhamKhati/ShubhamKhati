@@ -14,8 +14,6 @@
 
 - 📫 How to reach me **shubhamkhati2001@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Bc5Z3s0AAzJSt9AIV09c7wL5yM0FQj7b/view?usp=drive_link](https://drive.google.com/file/d/1Bc5Z3s0AAzJSt9AIV09c7wL5yM0FQj7b/view?usp=drive_link)
-
 - ⚡ Fun fact **I think Iam good at fixing bugs.**
 
 <h3 align="left">Connect with me:</h3>
